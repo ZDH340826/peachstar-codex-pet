@@ -1,5 +1,7 @@
 # PeachStar Codex Pet
 
+[中文说明](README.zh-CN.md)
+
 PeachStar is a custom Codex digital pet: a chibi human girl wearing a Cinnamoroll-themed hood, with graduation and cherry-blossom details.
 
 This repository contains the installable pet package and a larger experimental variant.
@@ -43,4 +45,3 @@ The generated atlas was validated as:
 - size: 1536 x 1872
 - validation errors: none
 - validation warnings: none
-
