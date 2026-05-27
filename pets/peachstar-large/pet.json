@@ -1,0 +1,6 @@
+{
+  "id": "peachstar-large",
+  "displayName": "PeachStar Large",
+  "description": "A larger-display version of PeachStar, scaled up inside the standard Codex pet frame.",
+  "spritesheetPath": "spritesheet.webp"
+}
