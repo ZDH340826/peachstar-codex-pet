@@ -1,6 +1,6 @@
 # PeachStar Codex 宠物
 
-[英文说明](README.md) · [制作过程摘要](docs/conversation-summary.md) · [如何制作自己的宠物](docs/make-your-own-pet.zh-CN.md)
+[英文说明](README.md) · [制作过程摘要](docs/conversation-summary.md) · [如何制作自己的宠物](docs/make-your-own-pet.zh-CN.md) · [无脑版教程](docs/no-brainer-guide.zh-CN.md)
 
 PeachStar 是一个自定义 Codex 数字宠物：主体是 Q 版人物女孩，带有玉桂狗风格帽兜、毕业帽星星和樱花细节。
 
@@ -47,6 +47,7 @@ pets/
 docs/
   conversation-summary.md
   make-your-own-pet.zh-CN.md
+  no-brainer-guide.zh-CN.md
   images/
 ```
 
@@ -69,4 +70,3 @@ docs/images/
 ## 隐私说明
 
 仓库没有上传原始参考照片，也没有上传中间生成目录。只保留最终可安装的宠物包、QA 预览图和脱敏制作过程摘要。
-

@@ -1,6 +1,6 @@
 # PeachStar Codex Pet
 
-[中文说明](README.zh-CN.md) · [How it was made](docs/conversation-summary.md) · [中文制作教程](docs/make-your-own-pet.zh-CN.md)
+[中文说明](README.zh-CN.md) · [How it was made](docs/conversation-summary.md) · [中文制作教程](docs/make-your-own-pet.zh-CN.md) · [无脑版教程](docs/no-brainer-guide.zh-CN.md)
 
 PeachStar is a custom Codex digital pet: a chibi human girl wearing a Cinnamoroll-themed hood, with graduation and cherry-blossom details.
 
