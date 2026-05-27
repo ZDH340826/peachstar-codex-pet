@@ -10,6 +10,7 @@ This repository contains the installable pet package and a larger experimental v
 
 - `pets/peachstar`: standard version.
 - `pets/peachstar-large`: larger visual version scaled inside the same Codex pet frame.
+- `pets/peachstar-v2`: richer-animation version with enhanced idle, waiting, and review motions.
 
 ## Install
 

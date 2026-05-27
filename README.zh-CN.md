@@ -10,6 +10,7 @@ PeachStar 是一个自定义 Codex 数字宠物：主体是 Q 版人物女孩，
 
 - `pets/peachstar`：标准版。
 - `pets/peachstar-large`：放大版，在 Codex 固定宠物帧内放大显示。
+- `pets/peachstar-v2`：动作增强版，优化了待机、等待和审阅动作。
 
 ## 安装方式
 
@@ -42,6 +43,9 @@ pets/
     pet.json
     spritesheet.webp
   peachstar-large/
+    pet.json
+    spritesheet.webp
+  peachstar-v2/
     pet.json
     spritesheet.webp
 docs/

@@ -1,0 +1,6 @@
+{
+  "id": "peachstar-v2",
+  "displayName": "PeachStar V2",
+  "description": "A richer-animation version of PeachStar with enhanced idle, waiting, and review motions.",
+  "spritesheetPath": "spritesheet.webp"
+}
